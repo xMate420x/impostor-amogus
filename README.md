@@ -1,2 +1,2 @@
 # impostor-amogus
-when's impostgor is SUS
+10 hours amog twerk beatbox
