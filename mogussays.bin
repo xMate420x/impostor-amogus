@@ -1,3 +1,5 @@
+#!/bin/bash
+
 TEXT=$(echo $1)
 echo " ▁▁▁▁▁▁▁▁▁▁                   "
 echo "< $TEXT⠀>⠀⠀"
